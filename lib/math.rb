@@ -11,7 +11,7 @@ expect(division(50,2)0.to eq(25))
 end
 
 def multiplication(num1, num2)
-expect(multiplication())
+expect(multiplication(4,30)).to eq(120)
 end
 
 def modulo(num1, num2)
