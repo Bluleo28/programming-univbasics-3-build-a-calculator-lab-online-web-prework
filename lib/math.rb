@@ -1,5 +1,5 @@
 def addition(num1, num2)
-expect(addition(5,4).to)
+expect(addition(5,4).to) eq.
 end
 
 def subtraction(num1, num2)
