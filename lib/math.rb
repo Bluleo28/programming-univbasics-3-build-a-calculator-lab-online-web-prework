@@ -15,9 +15,9 @@ expect(multiplication(4,30)).to eq(120)
 end
 
 def modulo(num1, num2)
-
+expect(modulo(34,5)0.to eq(4)
 end
 
 def square_root(num)
-
+expect(square_root(81)).to eq(9)
 end
