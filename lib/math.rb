@@ -3,7 +3,7 @@ expect(addition(5,4).to) eq.(9)
 end
 
 def subtraction(num1, num2)
-
+expect(subtraction(10,5)).to eq(5)
 end
 
 def division(num1, num2)
