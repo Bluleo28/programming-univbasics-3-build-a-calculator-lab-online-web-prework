@@ -1,5 +1,5 @@
 def addition(num1, num2)
-
+addition(5 + 5) eq(10)
 end
 
 def subtraction(num1, num2)
