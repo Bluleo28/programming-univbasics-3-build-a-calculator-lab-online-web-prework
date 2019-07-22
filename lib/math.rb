@@ -7,7 +7,7 @@ expect(subtraction(10,5)).to eq(5)
 end
 
 def division(num1, num2)
-
+expect(division(50,2)0.to eq(25))
 end
 
 def multiplication(num1, num2)
